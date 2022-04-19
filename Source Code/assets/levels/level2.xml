@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PipelineExtensions="PipelineExtensions">
+  <Asset Type="PipelineExtensions:GameEditorLevelData">
+    <GroundGrid>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,beach_tl,beach_tm_01,beach_tm_04,beach_r_down_diagonal,,,,,,,beach_lm_01,sand,sand,beach_r_down_diagonal_neighbour,beach_r_down_diagonal,,,,,beach_tl,beach_l_up_diagonal_neighbour,sand,sand,grass,beach_r_down_diagonal_neighbour_grass,beach_r_down_diagonal_grass,,,,beach_lm_04,sand,sand,sand,grass,grass,beach_rm_01_grass-22,,,,beach_lm_03,sand,sand,grass,grass,grass,beach_rm_01_grass-22,,,,beach_lm_01,sand,grass,grass,grass,grass,beach_rm_01_grass,,,,beach_bl,beach_bm_01,beach_bm_03_grass,beach_bm_04_grass,beach_bm_04_grass,beach_bm_05_grass,beach_br_grass,,,,,,,,,,,,,,,,,,,,,</GroundGrid>
+    <Buildings>
+      <Item>
+        <Name>bunker_round_2x1_bottom</Name>
+        <X>479</X>
+        <Y>12203</Y>
+      </Item>
+      <Item>
+        <Name>bunker_round_2x1_bottom</Name>
+        <X>711</X>
+        <Y>11864</Y>
+      </Item>
+      <Item>
+        <Name>bunker_round_1x2_bottom</Name>
+        <X>696</X>
+        <Y>11957</Y>
+      </Item>
+      <Item>
+        <Name>bunker_round_1x2_top</Name>
+        <X>710</X>
+        <Y>11974</Y>
+      </Item>
+      <Item>
+        <Name>bunker_round_2x1_top</Name>
+        <X>728</X>
+        <Y>11875</Y>
+      </Item>
+      <Item>
+        <Name>bunker_round_2x1_top</Name>
+        <X>494</X>
+        <Y>12216</Y>
+      </Item>
+    </Buildings>
+    <Objects>
+      <Item>
+        <Name>Tower</Name>
+        <X>638</X>
+        <Y>12139</Y>
+      </Item>
+      <Item>
+        <Name>Tower</Name>
+        <X>472</X>
+        <Y>11737</Y>
+      </Item>
+    </Objects>
+    <LevelEvents />
+    <GridWidth>10</GridWidth>
+    <GridLength>100</GridLength>
+  </Asset>
+</XnaContent>

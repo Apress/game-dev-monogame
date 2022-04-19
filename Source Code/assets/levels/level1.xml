@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PipelineExtensions="PipelineExtensions">
+  <Asset Type="PipelineExtensions:GameEditorLevelData">
+    <GroundGrid>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,beach_br,,,beach_br,,beach_br,,,,,,,,,,,,</GroundGrid>
+    <Buildings>
+      <Item>
+        <Name>bunker_round_2x1_bottom</Name>
+        <X>578</X>
+        <Y>12325</Y>
+      </Item>
+      <Item>
+        <Name>bunker_round_2x1_bottom</Name>
+        <X>902</X>
+        <Y>12435</Y>
+      </Item>
+      <Item>
+        <Name>bunker_round_2x1_bottom</Name>
+        <X>432</X>
+        <Y>12480</Y>
+      </Item>
+    </Buildings>
+    <Objects>
+      <Item>
+        <Name>Tower</Name>
+        <X>916</X>
+        <Y>12361</Y>
+      </Item>
+    </Objects>
+    <LevelEvents>
+      <Item Type="PipelineExtensions:GameEditorStartLevel">
+        <Y>12732</Y>
+      </Item>
+      <Item Type="PipelineExtensions:GameEditorEndLevel">
+        <Y>12152</Y>
+      </Item>
+      <Item Type="PipelineExtensions:GameEditorGenerate2Choppers">
+        <Y>12329</Y>
+      </Item>
+      <Item Type="PipelineExtensions:GameEditorGenerate6Choppers">
+        <Y>12408</Y>
+      </Item>
+      <Item Type="PipelineExtensions:GameEditorGenerate4Choppers">
+        <Y>12507</Y>
+      </Item>
+    </LevelEvents>
+    <GridWidth>10</GridWidth>
+    <GridLength>100</GridLength>
+  </Asset>
+</XnaContent>

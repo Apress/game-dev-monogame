@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:PipelineExtensions="Engine2D.PipelineExtensions">
+  <Asset Type="PipelineExtensions:AnimationData">
+    <AnimationSpeed>3</AnimationSpeed>
+    <IsLooping>false</IsLooping>
+    <Frames>
+      <Item>
+        <X>348</X>
+        <Y>0</Y>
+        <CellWidth>116</CellWidth>
+        <CellHeight>152</CellHeight>
+      </Item>
+      <Item>
+        <X>464</X>
+        <Y>0</Y>
+        <CellWidth>116</CellWidth>
+        <CellHeight>152</CellHeight>
+      </Item>
+      <Item>
+        <X>580</X>
+        <Y>0</Y>
+        <CellWidth>116</CellWidth>
+        <CellHeight>152</CellHeight>
+      </Item>
+      <Item>
+        <X>696</X>
+        <Y>0</Y>
+        <CellWidth>116</CellWidth>
+        <CellHeight>152</CellHeight>
+      </Item>
+    </Frames>
+  </Asset>
+</XnaContent>

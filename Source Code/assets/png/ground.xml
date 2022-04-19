@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Atlas="Engine2D.Objects.Atlas">
+  <Asset Type="Atlas:AtlasDefinition">
+    <Width>1024</Width>
+    <Height>1024</Height>
+    <TileBlocks>
+      <Item>
+        <X>1</X>
+        <Y>1</Y>
+        <Width>1024</Width>
+        <Height>768</Height>
+        <TilesWidth>128</TilesWidth>
+        <TilesHeight>128</TilesHeight>
+      </Item>
+      <Item>
+        <X>1</X>
+        <Y>769</Y>
+        <Width>768</Width>
+        <Height>256</Height>
+        <TilesWidth>128</TilesWidth>
+        <TilesHeight>128</TilesHeight>
+      </Item>
+    </TileBlocks>
+  </Asset>
+</XnaContent>
